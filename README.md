@@ -1,1 +1,1 @@
-# Image-Encryption_Using_DNA_Cryptography
+# Image_Encryption_Using_DNA_Cryptography
