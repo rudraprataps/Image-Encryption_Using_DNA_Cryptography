@@ -1,6 +1,6 @@
 ## Image_Encryption_Using_DNA_Cryptography
 
-**To get the DNA Encoded Image**
+**To get the DNA Encoded Image**</br>
 Please Run dnaencoding.py and please don't forget to save the image in the same folder as of this file. And if the name of image is different then please do makes changes in the line no.  137. 
 After the code has been successfully compiled then automatically an output file will be saved in the same folder. 
 
